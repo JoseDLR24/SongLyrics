@@ -12,7 +12,6 @@ body {
 main {
     display: flex;
     flex-direction: row;
-    color: grey;
 }
 main div {
     width: 35%;
@@ -24,8 +23,4 @@ main section {
 
 main aside {
     width: 30%;
-}
-
-h4, figcaption {
-    color: black;
 }
